@@ -1,13 +1,11 @@
 * Brazilian
-* Self-entitled anime and manga *reviewer*;
+* Self-entitled anime and manga critique;
 * Privacy advocate;
 * Fedora Linux user;
 * Rust jerk
 * C++ enjoyer
 * Lua(u) fan
 
-Favorite bands: The Rare Occasions, Tame Impala
+At the very least, that's what I perceive myself to be, which might be a bit ignorant.
 
-Favorite artists: Thundercat, Kevin Penkin, Taisei Iwasaki, D-LOW
-
-I also like beatboxing, I guess (though I'm not that good).
+Favorite bands: "The Rare Occasions", "Hige Dandism"
