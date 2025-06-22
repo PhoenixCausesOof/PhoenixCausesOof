@@ -17,4 +17,4 @@ Some facts:
 - 🤩 Favorite manga 🤩: Omniscient Reader's Viewpoint
 - 😄 Favorite movie 😄: Parasite (2019)
 
-[![My Skills](https://skillicons.dev/icons
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,lua,robloxstudio,vscodium,linux)](https://skillicons.dev)
